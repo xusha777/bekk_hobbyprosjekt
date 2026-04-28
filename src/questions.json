@@ -1,32 +1,32 @@
 {
 	"categories": [
 		{
-			"name": "Geografi",
+			"name": "Simpson Cameos",
 			"questions": [
 				{
 					"value": 100,
-					"question": "Hva er hovedstaden i Norge?",
-					"answer": "Oslo"
+					"question": "Hvilken kjent person er denne karakteren?",
+					"answer": "Evlis Presley"
 				},
 				{
 					"value": 200,
-					"question": "Hvilket land har flest innbyggere i verden?",
-					"answer": "Kina"
+					"question": "Hvilken kjent person er denne karakteren?",
+					"answer": "Gordon Ramsey"
 				},
 				{
 					"value": 300,
-					"question": "Hva heter den lengste elva i Afrika?",
-					"answer": "Nilen"
+					"question": "Hvilken kjent person er denne karakteren?",
+					"answer": "Paul McCarntey"
 				},
 				{
 					"value": 400,
-					"question": "Hvilket land er både et kontinent og et land?",
-					"answer": "Australia"
+					"question": "Hvilken kjent person er denne karakteren?",
+					"answer": "Lady Gaga"
 				},
 				{
 					"value": 500,
-					"question": "Hva heter havet mellom Europa og Amerika?",
-					"answer": "Atlanterhavet"
+					"question": "Hvilken kjent person er denne karakteren?",
+					"answer": "Jason Momoa"
 				}
 			]
 		},
